@@ -1,6 +1,6 @@
 # jenkins-project
 
-'''
+```
 Login into the Jenkins server and follow the below given steps:
 
 Install Plugins:
@@ -149,4 +149,4 @@ pipeline {
 
 5. Finally save the job and build.
 
-'''
+```
